@@ -1,0 +1,23 @@
+* {
+  color: white;
+}
+.nav_bar {
+  background-color: navy;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav_logo {
+  display: flex;
+  justify-content: left;
+}
+.nav_manu_container {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+.nav_icon {
+  display: flex;
+  justify-content: right;
+}
